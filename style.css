@@ -9,8 +9,14 @@ body {
     position: relative;
   }
   
-  header img {
+ 
+header img {
     float: ;
+img {
+  position: absolute;
+  top: 50px;
+  left: 70px;
+}
     
     margin-inline: 8cm;
     
