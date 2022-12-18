@@ -10,10 +10,9 @@ body {
   }
   
   header img {
-    float: left;
-    float: inline-end
-    margin-right: 2cm;
-    margin-inline: 1.5cm;
+    float: inline-end;
+    float: inline-start;
+    margin-inline: 8cm;
     
   }
   
